@@ -1,0 +1,4 @@
+java8u202:
+https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html
+java11:
+https://www.oracle.com/java/technologies/downloads/#java11
